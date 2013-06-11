@@ -11,7 +11,7 @@ namespace Git_Mvc_Test_Application
 
         public int TestMethod()
         {
-            return 0;        
+            return 1;        
         }
     }
 }
